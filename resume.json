@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
+        "network": "微信",
+        "username": "nightsky128",
         "url": ""
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "PDF格式文件",
+        "username": "download",
+        "url": "https://chengdongwei.github.io/resume/resume.pdf"
       }
     ]
   },
