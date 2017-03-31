@@ -1,24 +1,24 @@
 {
-  "name": "aresume",
+  "name": "resume",
   "version": "1.0.0",
-  "description": "Wow, such a beautiful resume",
+  "description": "a beautiful resume",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DIYgod/Resume.git"
+    "url": "git+https://github.com/chengdongwei/resume.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "DIYgod",
+  "author": "chengdongwei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
+    "url": "https://github.com/chengdongwei/resume/issues"
   },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
+  "homepage": "https://github.com/chengdongwei/resume#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
